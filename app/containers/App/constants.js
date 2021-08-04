@@ -8,3 +8,7 @@
  * Follow this format:
  * export const YOUR_ACTION_CONSTANT = 'yourproject/YourContainer/YOUR_ACTION_CONSTANT';
  */
+export const ALLOW_ROLES_ACCESS_SITE = ['customer'];
+// export const API_ROOT = 'http://localhost/edison/projects/thebodyshop/backend/wp-json';
+export const API_ROOT =
+  'https://avalanchadevs.com/the-body-shop/backend/wp-json';

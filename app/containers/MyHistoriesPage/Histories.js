@@ -60,8 +60,8 @@ export function Histories({ myHistoriesPage, onQuery, dispatch }) {
             </div>
             <div className="d-none d-sm-block ">{buttons}</div>
           </div>
-          <div className="d-sm-none">{buttons}</div>
         </div>
+        <div className="d-sm-none">{buttons}</div>
       </div>
     );
   }

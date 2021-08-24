@@ -38,14 +38,13 @@ h4 {
   margin: 25px 0;
 }
 
-.modal-loading .modal-content {
+.modal-loading .modal-content{
   width: auto;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50% 50%;
 }
-
-.modal-loading .modal-body {
+.modal-loading .modal-body{
   padding: 0;
 }
 
@@ -249,7 +248,6 @@ button.close {
   padding: 10px 10px;
   font-size: 13px;
 }
-
 .btn-outline-secondary {
   border-color: #111111;
   color: #111111;
@@ -434,7 +432,7 @@ footer {
 
 .mi-cuenta-title {
   font-weight: 800;
-  font-size: 15px;
+  font-size: 14px;
   padding-left: 40px;
   background-position: left center;
   background-repeat: no-repeat;
@@ -446,7 +444,7 @@ footer {
 }
 
 .mi-cuenta-item span.no {
-  font-size: 25px;
+  font-size: 21px;
   padding-left: 10px;
   line-height: 1;
 }

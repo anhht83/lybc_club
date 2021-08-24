@@ -66,7 +66,7 @@ export function MiCuentaPage({ miCuentaPage, dispatch }) {
                       <div className="mi-cuenta-title mi-cuenta-title-1 align-items-center justify-content-between d-flex">
                         <span>MONTO ACUMULADO</span>{' '}
                         <FormattedNumber value={profile.acf.balance || 0}>
-                          {val => <span className="no">${val}</span>}
+                          {val => <span className="no text-nowrap">${val}.080808</span>}
                         </FormattedNumber>
                       </div>
                       {profile.coupons.expired_coming && (

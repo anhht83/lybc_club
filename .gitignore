@@ -8,3 +8,5 @@ stats.json
 .DS_Store
 npm-debug.log
 .idea
+temp_auto_push.bat
+temp_interactive_push.bat
